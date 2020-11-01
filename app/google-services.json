@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589053214251",
+    "firebase_url": "https://loginregisterfirebaseaut-ac55c.firebaseio.com",
+    "project_id": "loginregisterfirebaseaut-ac55c",
+    "storage_bucket": "loginregisterfirebaseaut-ac55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589053214251:android:edfd3e411330066b73746e",
+        "android_client_info": {
+          "package_name": "com.pavan.firebaseauthloginregistermvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589053214251-nfoonq3jg29b0hg5jd9v9kckp21g37am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pavan.firebaseauthloginregistermvvm",
+            "certificate_hash": "ba34810d318521b9c3f9205b9219a48498cd097f"
+          }
+        },
+        {
+          "client_id": "589053214251-s1vciib8p4qpk74691kgroqu92bf4gt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhDZ-6e4Umc7wfoIreKObk6Ac_OSqQKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589053214251-s1vciib8p4qpk74691kgroqu92bf4gt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
