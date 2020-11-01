@@ -2,7 +2,7 @@
 android app using firebase authorization and MVVM architecture
 
 """login view"""
-![alt text](https://github.com/Pavan-kalyan-thota/FirebaseAuthMVVM/blob/master/Screenshot%20(19).png)
+"""![alt text](https://github.com/Pavan-kalyan-thota/FirebaseAuthMVVM/blob/master/Screenshot%20(19).png)"""
 """logged in view"""
 ![alt text](https://github.com/Pavan-kalyan-thota/FirebaseAuthMVVM/blob/master/Screenshot%20(20).png)
 """firebase console"""
